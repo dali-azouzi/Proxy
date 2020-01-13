@@ -354,7 +354,9 @@ textarea.input1 + .shadow-input1 {
   }
 
   .contact1-pic {
-    display: none;
+    width: 51%;
+    margin-top: -87px;
+    margin-left: 24%;
   }
 
   .contact1-form {
